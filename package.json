@@ -56,7 +56,7 @@
     "release:dry-run": "standard-version --dry-run"
   },
   "dependencies": {
-    "@babel/cli": "^7.12.10",
+    "@babel/cli": "^7.14.3",
     "@babel/core": "^7.12.10",
     "@babel/generator": "^7.12.11",
     "@babel/node": "^7.12.10",
